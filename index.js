@@ -56,4 +56,4 @@ client.on('interactionCreate', async interaction => {
 
 
 
-client.login("MTMwNjc0NDIwODQ0MjUyMzc0MQ.GYeHAU.VV0kgsua3J2cNcKuwTuYEleM8fssNYzuh2pEpE");
+client.login("MTMwNjc0NDIwODQ0MjUyMzc0MQ.G3vHfS.5tT6_5sbk4D7jX7Zgjh04CYN4tVHXBfAFeWJak");
